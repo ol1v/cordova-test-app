@@ -16,7 +16,7 @@ Add plugins
 You can choose between android, ios or browser etc.
 example:
 
-`cordova add platform android`
+`cordova platform add android`
 
 # Build project #
 
